@@ -1,9 +1,14 @@
+CRIAR UMA PASTA NA MINHA MÁQUINA
 1º no cmd dentro da minha pasta documentos
 2ºgit clone + ctrl +v (endereço do repositório)
 3ºcd (nome do projeto)
 4ºcode . (abrir direto no (vscode)
 
+SUBIR NO VSCODE
 Agora para subir o projeto no VScode para o git
 1º git add .
 2° git commit -m "nome da atualização"
 3º git push origin main
+
+COPIAR DE OUTRO GITHUB
+
